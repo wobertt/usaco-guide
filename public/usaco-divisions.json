@@ -103,9 +103,7 @@
         "Simulation"
       ],
       "solution": {
-        "kind": "link",
-        "label": "External Sol",
-        "url": "http://www.usaco.org/current/data/sol_prob3_bronze_open22.html"
+        "kind": "internal"
       },
       "inModule": true,
       "moduleId": "EXTRA_PROBLEMS"
@@ -773,7 +771,9 @@
       "sourceDescription": null,
       "isStarred": false,
       "difficulty": "Normal",
-      "tags": [],
+      "tags": [
+        "Greedy"
+      ],
       "solution": {
         "kind": "link",
         "label": "External Sol",
@@ -925,15 +925,18 @@
       "source": "Bronze",
       "sourceDescription": null,
       "isStarred": false,
-      "difficulty": "Easy",
+      "difficulty": "Hard",
       "tags": [
-        "Complete Search"
+        "Set",
+        "Maps"
       ],
       "solution": {
-        "kind": "internal"
+        "kind": "link",
+        "label": "External Sol",
+        "url": "http://www.usaco.org/current/data/sol_prob3_bronze_dec24.html"
       },
       "inModule": true,
-      "moduleId": "EXTRA_PROBLEMS"
+      "moduleId": "intro-sets"
     },
     {
       "uniqueId": "usaco-1468",
@@ -1489,7 +1492,9 @@
       "sourceDescription": null,
       "isStarred": false,
       "difficulty": "Normal",
-      "tags": [],
+      "tags": [
+        "Simulation"
+      ],
       "solution": {
         "kind": "internal"
       },
@@ -1624,7 +1629,9 @@
       "sourceDescription": null,
       "isStarred": false,
       "difficulty": "Normal",
-      "tags": [],
+      "tags": [
+        "Constructive"
+      ],
       "solution": {
         "kind": "link",
         "label": "External Sol",
@@ -1927,7 +1934,9 @@
       "sourceDescription": null,
       "isStarred": false,
       "difficulty": "Very Easy",
-      "tags": [],
+      "tags": [
+        "Complete Search"
+      ],
       "solution": {
         "kind": "internal"
       },
@@ -2045,7 +2054,9 @@
       "sourceDescription": null,
       "isStarred": false,
       "difficulty": "Easy",
-      "tags": [],
+      "tags": [
+        "Greedy"
+      ],
       "solution": {
         "kind": "internal"
       },
@@ -2130,7 +2141,9 @@
       "sourceDescription": null,
       "isStarred": false,
       "difficulty": "Normal",
-      "tags": [],
+      "tags": [
+        "Simulation"
+      ],
       "solution": {
         "kind": "internal"
       },
@@ -2522,12 +2535,12 @@
       "source": "Gold",
       "sourceDescription": null,
       "isStarred": false,
-      "difficulty": "N/A",
-      "tags": [],
+      "difficulty": "Normal",
+      "tags": [
+        "Connected Components"
+      ],
       "solution": {
-        "kind": "link",
-        "label": "External Sol",
-        "url": "http://www.usaco.org/current/data/sol_prob1_gold_season26contest1.html"
+        "kind": "internal"
       },
       "inModule": true,
       "moduleId": "EXTRA_PROBLEMS"
@@ -4516,7 +4529,7 @@
       "source": "Gold",
       "sourceDescription": null,
       "isStarred": false,
-      "difficulty": "N/A",
+      "difficulty": "Insane",
       "tags": [
         "Binary Search"
       ],
@@ -4526,7 +4539,7 @@
         "url": "http://www.usaco.org/current/data/sol_prob1_gold_jan24.html"
       },
       "inModule": true,
-      "moduleId": "EXTRA_PROBLEMS"
+      "moduleId": "binary-search-sorted-array"
     },
     {
       "uniqueId": "usaco-717",
@@ -4814,7 +4827,8 @@
       "difficulty": "Normal",
       "tags": [
         "DSU",
-        "DP"
+        "DP",
+        "Graphs"
       ],
       "solution": {
         "kind": "link",
@@ -7663,7 +7677,10 @@
       "sourceDescription": null,
       "isStarred": false,
       "difficulty": "Normal",
-      "tags": [],
+      "tags": [
+        "Connected Components",
+        "Graphs"
+      ],
       "solution": {
         "kind": "internal"
       },
@@ -7783,14 +7800,12 @@
       "source": "Silver",
       "sourceDescription": null,
       "isStarred": true,
-      "difficulty": "Hard",
+      "difficulty": "Normal",
       "tags": [
         "Prefix Sums"
       ],
       "solution": {
-        "kind": "link",
-        "label": "External Sol",
-        "url": "http://www.usaco.org/current/data/sol_prob2_silver_jan25.html"
+        "kind": "internal"
       },
       "inModule": true,
       "moduleId": "prefix-sums"
@@ -7968,9 +7983,7 @@
         "Prefix Sums"
       ],
       "solution": {
-        "kind": "link",
-        "label": "External Sol",
-        "url": "http://www.usaco.org/current/data/sol_prob3_silver_feb21.html"
+        "kind": "internal"
       },
       "inModule": true,
       "moduleId": "silver-conclusion"
@@ -8547,7 +8560,9 @@
       "sourceDescription": null,
       "isStarred": false,
       "difficulty": "Normal",
-      "tags": [],
+      "tags": [
+        "Constructive"
+      ],
       "solution": {
         "kind": "link",
         "label": "External Sol",
@@ -8865,7 +8880,9 @@
       "sourceDescription": null,
       "isStarred": false,
       "difficulty": "Normal",
-      "tags": [],
+      "tags": [
+        "Simulation"
+      ],
       "solution": {
         "kind": "internal"
       },
